@@ -10,4 +10,4 @@ Data Visualization: Power BI was used to create interactive dashboards showing k
 Churn Prediction: Python (Jupyter Notebook) was used to build a Random Forest model, which helps predict whether a customer is likely to churn.
 
 Insights & Impact: Factors like account tenure, usage frequency, and service complaints were major contributors to churn. These insights can be used to take proactive actions and improve customer retention.
-
+(https://github.com/Deep-codes76/churn-analysis-project/blob/main/churn%20analysis-1.png)
